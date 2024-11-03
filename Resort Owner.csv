@@ -1,0 +1,93 @@
+﻿Timestamp,Name,Age,Choose your role,"Functional Suitability
+
+The booking platform fully supports all resort management functionalities needed.",The system accurately handles guest reservations without errors.   ,The platform offers relevant features for managing resort amenities. ,"Performance Efficiency
+
+The system responds quickly during high traffic booking periods.",The platform efficiently handles resort resource data without delays.  ,The system can handle a large number of bookings simultaneously. ,"Compatibility
+
+The platform integrates well with other resort management tools.","The system works seamlessly with other third-party applications (e.g., payment gateways).  ",The platform allows coexistence with current resort operations systems. ,"Interaction Capability
+
+The system’s user interface is easy to recognize and navigate. ",The platform is simple to learn and operate for new users.,The system provides clear guidance to avoid operational errors. ,"Reliability
+
+The platform is available without frequent downtimes. ",The platform recovers quickly after an unexpected crash. ,"Security
+
+The platform ensures that my data is secure and protected. ",The system prevents unauthorized access to my account.  ,"Maintainability
+
+The platform allows me to easily update my resort listings. ",The platform is easy to test and maintain. ,"Flexibility
+
+The platform easily adapts to new features or functionalities.",  The system can scale to handle increasing numbers of guests.  ,The platform is easy to install and use. ,"Safety
+
+The platform ensures operational safety with minimal risk of data loss. ",  The system provides adequate warnings for potential risks.  ,The platform includes fail-safe mechanisms to prevent critical failures. 
+9/15/2024 17:40:05,Charles De leon,21,Resort Owner,5,3,5,4,5,5,5,5,5,4,4,4,5,5,5,5,5,5,5,5,5,5,3,5
+10/6/2024 17:30:23,Eros Dalisay ,30,Resort Owner,4,5,4,5,4,5,4,5,4,5,4,5,4,4,5,4,4,4,5,4,5,4,5,4
+10/6/2024 18:08:31,Bella Baroqillo,30,Resort Owner,4,5,4,5,4,5,4,5,4,5,4,5,4,4,5,4,4,4,5,4,5,4,5,4
+10/6/2024 18:15:50,Alexander Catindig,31,Resort Owner,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+10/6/2024 18:19:19,Bianca Bautista ,32,Resort Owner,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+10/6/2024 17:32:52,Vesper Elizalde,33,Resort Owner,5,4,5,4,5,4,5,4,5,4,5,4,5,5,4,5,5,5,4,5,4,5,4,5
+10/5/2024 2:04:21,Steven De Dios,35,Resort Owner,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+10/6/2024 17:06:36,Dawn Fermin,35,Resort Owner,5,4,4,4,5,4,3,4,5,5,4,4,5,5,4,5,5,4,4,5,5,5,4,5
+10/6/2024 17:34:48,Fereydoun Fulgencio,35,Resort Owner,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+10/6/2024 17:39:15,Orlaith Gawaran,35,Resort Owner,5,5,4,4,5,5,5,4,5,5,5,4,5,5,4,5,4,5,5,5,4,5,5,5
+10/6/2024 17:10:05,Marcelline Ilagan,36,Resort Owner,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+10/6/2024 17:42:11,Zenon Hiwaga,36,Resort Owner,5,5,4,4,5,5,4,4,5,5,4,4,5,4,4,5,4,5,5,5,4,5,4,5
+10/6/2024 18:04:34,Zedrick Ubaldo,36,Resort Owner,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+10/6/2024 18:32:30,Greshella Ibanez,36,Resort Owner,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+10/6/2024 17:10:33,Luken Jalandoni,37,Resort Owner,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+10/6/2024 17:43:18, Ione  Ibanez,37,Resort Owner,4,5,4,5,4,5,4,5,4,5,4,5,4,4,5,4,4,4,5,4,5,4,5,4
+10/6/2024 17:44:40,Joey Jamon,37,Resort Owner,4,5,4,5,4,5,4,5,4,5,4,5,4,4,5,4,4,4,5,4,5,4,5,4
+10/6/2024 18:14:28,Hailey Hilario,37,Resort Owner,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+10/6/2024 18:23:55,Hugo Lapitan,37,Resort Owner,4,5,4,5,4,5,4,5,4,5,4,5,4,4,5,4,4,4,5,4,5,4,5,4
+10/6/2024 17:11:43,Serafina Kintanar,38,Resort Owner,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+10/6/2024 17:46:09,Kaelis Kasilag,38,Resort Owner,4,5,4,5,4,5,5,4,5,4,5,4,5,5,4,5,5,5,5,4,5,5,4,5
+10/6/2024 18:07:33,Crystal Almario,38,Resort Owner,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+10/6/2024 17:12:46,Celestine Lagasca,39,Resort Owner,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+10/6/2024 17:47:19,Xion Lacsamana,39,Resort Owner,4,5,4,5,4,5,4,5,4,5,4,5,4,4,5,4,4,4,5,4,5,4,5,4
+10/6/2024 17:51:04,Neryos Narvasa,39,Resort Owner,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+10/6/2024 18:05:40,Xaviel Ylagan,39,Resort Owner,5,4,5,4,5,4,5,4,5,4,5,4,5,5,4,5,5,5,4,5,4,5,4,5
+10/6/2024 18:20:16,Miguel Carandang,39,Resort Owner,4,5,4,5,4,5,4,5,4,5,4,5,4,5,4,5,5,5,4,5,5,5,4,5
+10/6/2024 18:33:41,Kristoff Jimenez,39,Resort Owner,5,4,5,4,5,4,5,4,5,4,5,4,5,5,4,5,5,5,4,5,4,5,4,5
+10/6/2024 17:13:23,Eryx Mendiola,40,Resort Owner,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+10/6/2024 17:48:52,Meridiana Mangahas,40,Resort Owner,4,5,4,5,4,5,4,5,4,5,4,5,4,4,5,4,5,5,4,5,4,5,4,5
+10/6/2024 17:52:12,Kaine Obispo,40,Resort Owner,4,5,4,5,4,5,4,5,4,5,4,5,4,4,5,4,4,4,5,4,5,4,5,4
+10/6/2024 17:53:50, Serena Pangilinan,40,Resort Owner,4,4,5,5,4,4,5,5,4,4,5,5,4,5,5,4,5,4,4,5,5,4,4,5
+10/6/2024 18:02:33,Elowyn Salalima,40,Resort Owner,5,4,5,4,5,4,5,4,5,5,4,5,4,4,5,4,4,4,5,4,5,4,5,4
+10/6/2024 18:09:15,Ceasar Castaneda,40,Resort Owner,4,4,4,5,5,5,4,4,4,5,5,5,4,4,5,5,4,4,4,5,5,5,5,4
+10/6/2024 18:37:32,Amanda Rivera,40,Resort Owner,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+10/6/2024 17:13:56,Pearl Narciso,41,Resort Owner,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+10/6/2024 18:13:21,Lorie Fuentebella ,41,Resort Owner,4,5,4,5,4,5,4,5,4,5,4,5,4,4,5,4,4,4,5,4,5,4,5,4
+10/6/2024 18:30:52,Lourdes Kalaw,41,Resort Owner,5,5,5,4,4,4,5,5,5,5,4,4,4,5,5,5,5,5,5,4,4,5,5,5
+10/6/2024 17:15:11,Magnus Ocampo,42,Resort Owner,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+10/6/2024 17:15:43,Rainier Pagulayan,43,Resort Owner,4,5,4,5,4,5,4,5,4,5,4,5,4,4,5,4,4,4,5,4,5,4,5,4
+10/6/2024 18:34:58,Julianna Morales,43,Resort Owner,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+10/6/2024 17:16:46,Teodora Quintin,44,Resort Owner,5,5,4,5,5,4,5,5,4,5,5,4,5,4,5,5,5,4,5,5,4,5,5,4
+10/6/2024 17:17:53,Skye Reyes,45,Resort Owner,5,4,5,4,5,4,5,4,5,4,5,4,5,5,4,5,5,5,4,5,4,5,4,5
+10/6/2024 18:10:55,Trystan Del Rosario,45,Resort Owner,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+10/6/2024 18:20:58,Isabela De Guia,45,Resort Owner,4,4,4,5,5,5,4,4,4,5,5,5,4,4,5,5,5,4,4,5,5,5,4,5
+10/6/2024 17:19:05,Zephyr Sandejas,46,Resort Owner,5,5,5,4,5,5,5,4,5,5,5,4,5,5,4,5,5,5,5,5,4,5,5,5
+10/6/2024 18:38:30,Eloisa Torres,46,Resort Owner,4,5,4,5,4,5,4,5,4,5,4,5,4,4,5,4,4,4,5,4,5,4,5,4
+10/6/2024 17:20:28,Rome Tabangay,47,Resort Owner,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+10/6/2024 17:21:30,Zane Ureta,48,Resort Owner,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+10/6/2024 17:22:24,Camille Velayo,49,Resort Owner,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+10/6/2024 17:23:13,Leonidas Wenceslao,49,Resort Owner,5,5,5,4,5,5,5,5,4,5,5,5,5,5,5,5,4,5,5,5,5,4,5,5
+10/6/2024 17:23:45,Soleil Xavier,50,Resort Owner,5,4,5,4,5,4,5,4,5,4,5,4,5,5,4,5,5,5,4,5,4,5,4,5
+10/6/2024 18:11:57,Elizander Estrada,50,Resort Owner,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+10/6/2024 18:22:56,Irene Garcia,50,Resort Owner,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+10/6/2024 18:35:42,Sebastian Ocampo,50,Resort Owner,4,4,5,4,4,5,4,4,5,4,4,5,4,5,4,4,4,5,4,4,5,4,4,5
+10/6/2024 17:24:16,Odessa Yatco,51,Resort Owner,4,5,4,5,4,5,4,5,4,5,4,5,4,4,5,4,4,4,5,4,5,4,5,4
+10/6/2024 17:26:21,Zephyros Alcaraz,51,Resort Owner,5,5,4,4,5,5,4,4,5,5,4,4,5,4,4,5,4,5,5,4,4,5,5,4
+10/6/2024 18:24:49,Lorenzo Hernandez,51,Resort Owner,5,5,5,4,5,5,5,4,5,5,5,4,5,4,5,5,4,5,5,4,5,5,5,4
+10/6/2024 17:28:36,Bryaxis Batumbakal,52,Resort Owner,5,4,5,4,5,4,5,4,5,4,5,4,5,5,4,5,5,5,4,5,4,5,4,5
+10/6/2024 17:29:21,Cyrene Capistrano,53,Resort Owner,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+10/6/2024 18:36:16,Corazon Navarro,56,Resort Owner,5,5,5,4,5,5,5,4,5,5,5,4,5,5,4,5,5,5,5,5,4,5,5,5
+10/5/2024 2:05:16,Keith Gerard Dela Cruz,57,Resort Owner,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+10/6/2024 18:22:10,Gabriel Encarnacion,57,Resort Owner,5,4,5,4,5,4,5,4,5,4,5,4,5,5,4,5,5,5,4,5,5,5,5,5
+10/6/2024 18:37:00,Lucia Panganiban,58,Resort Owner,4,5,4,5,4,5,4,5,4,5,4,5,4,4,5,4,4,4,5,4,5,4,5,4
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Mean,4.70,4.77,4.66,4.70,4.72,4.81,4.67,4.70,4.70,4.83,4.67,4.72,4.69,4.69,4.75,4.75,4.69,4.72,4.78,4.72,4.78,4.75,4.75,4.73
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Total Mean,4.71,,,4.74,,,4.69,,,4.74,,,4.69,,4.75,,4.70,,4.76,,,4.74,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Grand Mean,4.73,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Compostive Mean,4.70,,,,,,,,,,,,,,,,,,,,,,,,,,

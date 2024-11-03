@@ -1,0 +1,35 @@
+﻿Timestamp,Name,Age,Choose your role,"Functional Suitability
+
+The platform’s functionalities meet the technical requirements for an e-commerce system. ",The system’s core functions operate accurately without errors. ,The platform provides appropriate features for all user roles. ,"Performance Efficiency
+
+The platform maintains optimal performance even during high traffic periods. ",System resources are efficiently utilized under heavy loads. ,The platform is scalable to handle increasing capacity without performance degradation. ,"Compatibility
+
+The platform ensures interoperability with other third-party services. ",The system supports coexistence with existing IT infrastructure. ,The platform allows seamless integration with other systems used by the resort. ,"Interaction Capability
+
+The system provides appropriate user error protection for all user roles. ",The platform is designed to be intuitive and easy to learn. ,The system supports self-descriptive features for new users. ,"Reliability
+
+The platform maintains high availability and minimizes downtime. ",The system can handle faults without a total system failure. ,The platform has a reliable recovery process in case of unexpected shutdowns. ,"Security
+
+The platform enforces strong data protection measures. ",The system maintains the integrity of user data across all transactions. ,The platform is resistant to security breaches and cyber threats. ,"Maintainability
+
+The platform is easy to maintain and test for future updates. ",The system is modular and allows easy modifications when needed. ,The platform supports reusability of code for future developments. ,"Flexibility
+
+The platform is flexible and supports the integration of new technologies. ",The system scales well to handle increased load without performance loss. ,The platform is easy to install and manage across different environments. ,"Safety
+
+The platform is built with fail-safe mechanisms to avoid critical system failures. ",The system includes adequate warnings for security and operational risks. ,"The platform operates within safe parameters, minimizing any risks to data. "
+9/15/2024 16:51:53,Ethan Zander L. Flores,21,IT Professional,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,5,5,5,4,5,4,4,4
+9/15/2024 19:47:22,Dorothea Avellana,24,IT Professional,5,4,5,4,4,4,4,4,4,4,5,5,4,4,4,4,4,4,4,4,4,5,4,3,4,4,4
+10/6/2024 19:24:08,Jeremy Tan,27,IT Professional,5,4,5,4,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5
+10/6/2024 20:45:43,Rodelito Nebris,28,IT Professional,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+9/15/2024 18:04:16,Ricky Grande,29,IT Professional,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,5,4,5,5,3,5
+10/6/2024 15:03:25,Donne Michael Gonato,29,IT Professional,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,4,5,4,5,5,4,5,5,5,5
+9/15/2024 16:29:34,Jm Sy,30,IT Professional,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,4,5,5,5,5,5,5,5,5,5
+10/6/2024 19:25:54,Miles Castro,32,IT Professional,5,5,5,5,5,5,5,5,4,5,4,5,5,5,5,5,5,5,5,5,5,4,5,4,5,5,5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Mean,4.88,4.38,4.88,4.63,4.75,4.75,4.75,4.75,4.63,4.63,4.75,4.88,4.75,4.75,4.75,4.50,4.75,4.50,4.88,4.63,4.75,4.88,4.38,4.63,4.75,4.50,4.75
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Total Mean,4.71,,,4.71,,,4.71,,,4.75,,,4.75,,,4.58,,,4.75,,,4.63,,,4.67,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Grand Mean,4.69,,,,,,,,,,,,,,,,,,,,,,,,,,
